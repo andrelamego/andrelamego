@@ -4,6 +4,9 @@
 
 
 [![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelamego)](https://github.com/anuraghazra/github-readme-stats)
+
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelamego&show_icons=true&theme=dark)
+
 <!--
 **andrelamego/andrelamego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
