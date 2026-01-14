@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am passionate about technology and driven by the challenge of turning ideas into efficient, well-structured code.<br>Currently, I am focusing on the Java ecosystem, working with SQL Server and PostgreSQL databases, and expanding my knowledge in Python.<br>I strive to create solutions that integrate logic, design, and clear purpose.<br><br>- 🎒 Systems Analysis and Development @ FATEC ZONA LESTE<br>- 📚 I am currently studying the Java ecosystem, design patterns, and SOLID principles.<br>- ⚡ Currently developing a game marketplace using JavaFX and SQL Server.</p>
+<p align="left">I am passionate about technology and driven by the challenge of turning ideas into efficient, well-structured code.<br>Currently, I am focusing on the Java ecosystem, working with SQL Server and PostgreSQL databases, and expanding my knowledge in Python.<br>I strive to create solutions that integrate logic, design, and clear purpose.<br><br>- 🎒 Systems Analysis and Development @ FATEC ZONA LESTE<br>- 📚 I am currently studying the Java ecosystem, design patterns, and SOLID principles.</p>
 
 ###
 
