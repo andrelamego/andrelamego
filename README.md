@@ -22,32 +22,51 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+Fullstack Developer focused on building well-structured applications and scalable systems.<br><br>
+
+Systems Analysis and Development — FATEC Zona Leste<br>
+Focus on Java, SQL Server, PostgreSQL and React<br>
+Interest in Software Architecture, Clean Architecture and Design Patterns<br><br>
+
+- Backend development with Java<br>
+- Clean Architecture and SOLID principles<br>
+- Database modeling and development<br>
+- Desktop and mobile application development<br>
+- REST API integration
+</p>
 
 ###
 
-<p align="left">I am passionate about technology and driven by the challenge of turning ideas into efficient, well-structured code.<br>Currently, I am focusing on the Java ecosystem, working with SQL Server and PostgreSQL databases, and expanding my knowledge in Python.<br>I strive to create solutions that integrate logic, design, and clear purpose.<br><br>- 🎒 Systems Analysis and Development @ FATEC ZONA LESTE<br>- 📚 I am currently studying the Java ecosystem, design patterns, and SOLID principles.</p>
+<h3 align="left">Featured Projects</h3>
+
+<p align="left">
+  
+- Restaurant Management System (Desktop + Mobile)<br>
+- Banking System (Java Web + SQL Server)<br>
+- [NASA Data Explorer](https://andrelamego.github.io/nasa-data-explorer/) (React + APIs)
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">Languages and Tools</h3>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
@@ -56,9 +75,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">My Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrelamego&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="300" alt="languages graph"  />
