@@ -46,7 +46,8 @@ Interest in Software Architecture, Clean Architecture and Design Patterns<br><br
   
 - Restaurant Management System ([Desktop](https://github.com/andrelamego/lanchonete-app) + [Mobile](https://github.com/andrelamego/lanchonete-app-mobile))<br>
 - [Banking System](https://github.com/andrelamego/sistema_bancario) (Java Web + SQL Server)<br>
-- [NASA Data Explorer](https://andrelamego.github.io/nasa-data-explorer/) (React + APIs)
+- [NASA Data Explorer](https://andrelamego.github.io/nasa-data-explorer/) (React + APIs)<br>
+- [Brazilian Document Validator](https://github.com/andrelamego/br-validator) (Spring + Bean Validation)<br>
 </p>
 
 ###
