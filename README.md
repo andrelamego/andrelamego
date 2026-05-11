@@ -51,21 +51,11 @@ Interest in Software Architecture, Clean Architecture and Design Patterns<br><br
   </tr>
 
   <tr>
-    <td><b>Restaurant Management System</b></td>
-    <td>Management system for restaurants with desktop and mobile applications.</td>
-    <td>Java, JavaFX, Mobile</td>
+    <td><b>Brazilian Document Validator</b></td>
+    <td>Validation library for Brazilian documents using Bean Validation.</td>
+    <td>Spring, Bean Validation</td>
     <td>
-      <a href="https://github.com/andrelamego/lanchonete-app">Desktop</a> |
-      <a href="https://github.com/andrelamego/lanchonete-app-mobile">Mobile</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Banking System</b></td>
-    <td>Web banking system with account management and database integration.</td>
-    <td>Java Web, SQL Server</td>
-    <td>
-      <a href="https://github.com/andrelamego/sistema_bancario">Repository</a>
+      <a href="https://github.com/andrelamego/br-validator">Repository</a>
     </td>
   </tr>
 
@@ -79,11 +69,21 @@ Interest in Software Architecture, Clean Architecture and Design Patterns<br><br
   </tr>
 
   <tr>
-    <td><b>Brazilian Document Validator</b></td>
-    <td>Validation library for Brazilian documents using Bean Validation.</td>
-    <td>Spring, Bean Validation</td>
+    <td><b>Banking System</b></td>
+    <td>Web banking system with account management and database integration.</td>
+    <td>Java Web, SQL Server</td>
     <td>
-      <a href="https://github.com/andrelamego/br-validator">Repository</a>
+      <a href="https://github.com/andrelamego/sistema_bancario">Repository</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Restaurant Management System</b></td>
+    <td>Management system for restaurants with desktop and mobile applications.</td>
+    <td>Java, JavaFX, Mobile</td>
+    <td>
+      <a href="https://github.com/andrelamego/lanchonete-app">Desktop</a> |
+      <a href="https://github.com/andrelamego/lanchonete-app-mobile">Mobile</a>
     </td>
   </tr>
 </table>
