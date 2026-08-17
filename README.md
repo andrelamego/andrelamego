@@ -25,7 +25,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-Fullstack Developer focused on building well-structured applications and scalable systems.<br><br>
+Backend Developer focused on building well-structured applications and scalable systems.<br><br>
 
 Systems Analysis and Development — FATEC Zona Leste<br>
 Focus on Java, SQL Server, PostgreSQL and React<br>
